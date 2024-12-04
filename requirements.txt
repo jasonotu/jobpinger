@@ -1,0 +1,8 @@
+boto3
+PyYAML
+beautifulsoup4
+requests
+selenium
+webdriver_manager
+lxml
+prettytable

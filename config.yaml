@@ -1,0 +1,14 @@
+employers:
+  Sophos:
+    platform: lever
+    url: "https://jobs.lever.co/sophos"
+  Crowdstrike:
+    platform: workday
+    url: "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers"
+
+keywords:
+  - "devops"
+  - "security"
+
+receiver_email: 'receiver@example.com'
+sender_email: 'sender@example.com'
