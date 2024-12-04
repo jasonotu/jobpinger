@@ -63,4 +63,3 @@ Sending pings!
 
 - `-v`, `--verbose`: Show details on what is currently being scraped
 - `-n`, `--no-email`: Skip sending email notifications.
->>>>>>> ee2f539 (initial code commit)
